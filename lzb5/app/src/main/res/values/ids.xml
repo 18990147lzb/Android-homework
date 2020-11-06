@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_sqlite" type="id" />
+    <item name="btn_delete" type="id" />
+    <item name="ct_name" type="id" />
+    <item name="ct_phonenumber" type="id" />
+    <item name="ct_password" type="id" />
+    <item name="btn_save" type="id" />
+</resources>
